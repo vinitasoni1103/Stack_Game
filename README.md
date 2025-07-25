@@ -5,7 +5,7 @@
 ## 📖 What is it?
 
 This is a browser-based 3D **Stack Game** made using:
-- **JavaScript (vanilla)**
+- **JavaScript**
 - **Three.js** for 3D rendering
 - **GSAP/TweenMax** for smooth animations
 
