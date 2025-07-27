@@ -7,7 +7,6 @@
 This is a browser-based 3D **Stack Game** made using:
 - **JavaScript**
 - **Three.js** for 3D rendering
-- **GSAP/TweenMax** for smooth animations
 
 You just have to **click** (or press **spacebar**) at the right time to stack blocks on top of each other. As you go higher, the difficulty increases.
 
