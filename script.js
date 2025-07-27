@@ -197,9 +197,6 @@ class Game {
         });
         document.addEventListener('touchstart', e => {
             e.preventDefault();
-            // this.onAction();
-            // this triggers after click on android so you
-            // insta-lose, will figure it out later.
         });
     }
     updateState(newState) {
